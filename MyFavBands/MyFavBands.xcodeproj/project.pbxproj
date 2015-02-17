@@ -29,6 +29,11 @@
 		36BC61D31A90A777001F908B /* logo402.png in Resources */ = {isa = PBXBuildFile; fileRef = 36BC61D21A90A777001F908B /* logo402.png */; };
 		36BC61D51A90A8AF001F908B /* logo76.png in Resources */ = {isa = PBXBuildFile; fileRef = 36BC61D41A90A8AF001F908B /* logo76.png */; };
 		36BC61D71A90A953001F908B /* logo152.png in Resources */ = {isa = PBXBuildFile; fileRef = 36BC61D61A90A953001F908B /* logo152.png */; };
+		BF09268F1A92EC40004B89CF /* Los Recoditos.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BF09268E1A92EC40004B89CF /* Los Recoditos.jpeg */; };
+		BF0926921A92EC53004B89CF /* Banda Machos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BF0926901A92EC53004B89CF /* Banda Machos.jpg */; };
+		BF0926931A92EC53004B89CF /* Banda MS.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BF0926911A92EC53004B89CF /* Banda MS.jpeg */; };
+		BF0926951A92EDA7004B89CF /* Banda MS.JPG in Resources */ = {isa = PBXBuildFile; fileRef = BF0926941A92EDA7004B89CF /* Banda MS.JPG */; };
+		BF0926971A92EDB6004B89CF /* Los Recoditos.JPG in Resources */ = {isa = PBXBuildFile; fileRef = BF0926961A92EDB6004B89CF /* Los Recoditos.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +73,11 @@
 		36BC61D21A90A777001F908B /* logo402.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo402.png; sourceTree = "<group>"; };
 		36BC61D41A90A8AF001F908B /* logo76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo76.png; sourceTree = "<group>"; };
 		36BC61D61A90A953001F908B /* logo152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo152.png; sourceTree = "<group>"; };
+		BF09268E1A92EC40004B89CF /* Los Recoditos.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Los Recoditos.jpeg"; sourceTree = "<group>"; };
+		BF0926901A92EC53004B89CF /* Banda Machos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Banda Machos.jpg"; sourceTree = "<group>"; };
+		BF0926911A92EC53004B89CF /* Banda MS.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Banda MS.jpeg"; sourceTree = "<group>"; };
+		BF0926941A92EDA7004B89CF /* Banda MS.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Banda MS.JPG"; sourceTree = "<group>"; };
+		BF0926961A92EDB6004B89CF /* Los Recoditos.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Los Recoditos.JPG"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +160,11 @@
 		368766BA1A8FA7C50026EE69 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				BF0926961A92EDB6004B89CF /* Los Recoditos.JPG */,
+				BF0926941A92EDA7004B89CF /* Banda MS.JPG */,
+				BF0926901A92EC53004B89CF /* Banda Machos.jpg */,
+				BF0926911A92EC53004B89CF /* Banda MS.jpeg */,
+				BF09268E1A92EC40004B89CF /* Los Recoditos.jpeg */,
 				368766CB1A8FB4410026EE69 /* Main.png */,
 				368766BB1A8FA7E70026EE69 /* 38 Special.jpg */,
 				368766BC1A8FA7E70026EE69 /* Band Perry.jpg */,
@@ -256,23 +271,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF0926921A92EC53004B89CF /* Banda Machos.jpg in Resources */,
 				368766CC1A8FB4410026EE69 /* Main.png in Resources */,
 				368766C91A8FA7E70026EE69 /* Little Big Town.jpg in Resources */,
 				36BC61D51A90A8AF001F908B /* logo76.png in Resources */,
 				368766C61A8FA7E70026EE69 /* Joe Cocker.jpg in Resources */,
 				368766A01A8F97200026EE69 /* Main.storyboard in Resources */,
 				368766C41A8FA7E70026EE69 /* Band Perry.jpg in Resources */,
+				BF09268F1A92EC40004B89CF /* Los Recoditos.jpeg in Resources */,
 				36BC61D31A90A777001F908B /* logo402.png in Resources */,
 				368766C31A8FA7E70026EE69 /* 38 Special.jpg in Resources */,
 				36BC61CF1A90A742001F908B /* logo292.png in Resources */,
 				368766A51A8F97200026EE69 /* LaunchScreen.xib in Resources */,
 				368766C51A8FA7E70026EE69 /* Eagles.jpg in Resources */,
+				BF0926951A92EDA7004B89CF /* Banda MS.JPG in Resources */,
 				368766C81A8FA7E70026EE69 /* Leonard Skynard.jpg in Resources */,
+				BF0926971A92EDB6004B89CF /* Los Recoditos.JPG in Resources */,
 				368766CA1A8FA7E70026EE69 /* Miranda Lambert.jpg in Resources */,
 				368766C71A8FA7E70026EE69 /* Journey.jpg in Resources */,
 				36BC61CE1A90A742001F908B /* logo291.png in Resources */,
 				368766A21A8F97200026EE69 /* Images.xcassets in Resources */,
 				36BC61D01A90A742001F908B /* logo401.png in Resources */,
+				BF0926931A92EC53004B89CF /* Banda MS.jpeg in Resources */,
 				36BC61D71A90A953001F908B /* logo152.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
